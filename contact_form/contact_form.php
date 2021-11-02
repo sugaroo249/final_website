@@ -1,7 +1,7 @@
 <?php
 
 // configure
-$from = '45890661+sugaroo249@users.noreply.github.com'; // Replace it with Your Hosting Admin email. REQUIRED!
+$from = 'you@antoniomariaca.com'; // Replace it with Your Hosting Admin email. REQUIRED!
 $sendTo = 'ajmariaca@protonmail.com'; // Replace it with Your email. REQUIRED!
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'email' => 'Email', 'subject' => 'Subject', 'message' => 'Message'); // array variable name => Text to appear in the email. If you added or deleted a field in the contact form, edit this array.
